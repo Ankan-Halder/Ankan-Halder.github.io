@@ -8,7 +8,7 @@ I am a Software Engineer 1 at FIS . I am a MSCS student as well at University of
 
 ## Research Interests
 
-- **Computer Vision:** 
+- **Computer Vision** 
 - **Machine Learning** 
 - **Deep Learning**
 
