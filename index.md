@@ -4,20 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Software Engineer 1 at FIS . I am a MSCS student as well at University of Texas at Austin.  
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** 
+- **Machine Learning** 
+- **Deep Learning**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2025]**   Joined UT Austin as MSCS Student
+- **[Jul. 2024]**   Promoted in FIS as Software Engineer 1 
+- **[Jul. 2023]**   Promoted in FIS as Software Engineer E 
+- **[Jun. 2022]**   Joined FIS as IT Trainee . 
+- **[May. 2022]**   Completed BTech in Information Technology from IIEST Shibpur.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
