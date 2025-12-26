@@ -19,7 +19,7 @@ I am a Software Engineer 1 at FIS . I am a MSCS student with GPA 4/4 as well at 
 - **[Jul. 2024]**   Promoted in FIS as Software Engineer 1 
 - **[Jul. 2023]**   Promoted in FIS as Software Engineer E 
 - **[Jun. 2022]**   Joined FIS as IT Trainee . 
-- **[May. 2022]**   Completed BTech in Information Technology from IIEST Shibpur.
+- **[May. 2022]**   Completed BTech in Information Technology from IIEST Shibpur with GPA 8.84/10.
 
 <!-- {% include_relative _includes/publications.md %}
 
