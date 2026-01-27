@@ -4,15 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Software Engineer 1 at FIS . I am a MSCS student with GPA 4/4 as well at University of Texas at Austin.  
+I work as a Configuration Analyst II in the Tech Development track at FIS Global, where I build Python-based automation, manage build and release workflows, and support production-grade financial systems. My interests lie in scalable systems, automation, and transitioning toward machine learning engineering. 
+
+I am pursuing a Master of Science in Computer Science (MSCS) GPA (4/4) till date, which aligns with my long-term goal of transitioning into machine learning engineering and applied research. My interests include scalable systems, automation, and machine learning, and I aim to bridge strong engineering fundamentals with data-driven modeling.
 
 ## Research Interests
 
-- **Computer Vision** 
 - **Machine Learning** 
 - **Deep Learning**
+- **Python Automation** 
 
 ## News
+- **[Jan. 2026]**   Promoted in FIS as Configuration Analyst 2
 - **[Jan. 2026]**   Started  Android Programing  CS 386P and Advances in Deep Learning CS 395T in Spring 2026.
 - **[Dec. 2025]**   Completed Deep learning CS 394D in Fall 2025 with GPA 4/4
 - **[Aug. 2025]**   Joined UT Austin as MSCS Student
