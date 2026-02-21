@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I work as a Configuration Analyst II in the Tech Development track at FIS Global, where I build Python-based automation, manage build and release workflows, and support production-grade financial systems. My interests lie in scalable systems, automation, and transitioning toward machine learning engineering. 
+I work as a Configuration Analyst I in the Tech Development track at FIS Global, where I build Python-based automation, manage build and release workflows, and support production-grade financial systems. My interests lie in scalable systems, automation, and transitioning toward machine learning engineering. 
 
 I am pursuing a Master of Science in Computer Science (MSCS) GPA (4/4) till date, which aligns with my long-term goal of transitioning into machine learning engineering and applied research. My interests include scalable systems, automation, and machine learning, and I aim to bridge strong engineering fundamentals with data-driven modeling.
 
