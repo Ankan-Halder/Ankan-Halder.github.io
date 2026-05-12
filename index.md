@@ -15,6 +15,7 @@ I am pursuing a Master of Science in Computer Science (MSCS) GPA (4/4) till date
 - **Python Automation** 
 
 ## News
+- **[May. 2026]**   Completed Android Programing CS 386P and Advances in Deep Learning CS 395T in Spring 2026 with GPA 4/4
 - **[Jan. 2026]**   Started working in FIS as Configuration Analyst 1
 - **[Jan. 2026]**   Started  Android Programing  CS 386P and Advances in Deep Learning CS 395T in Spring 2026.
 - **[Dec. 2025]**   Completed Deep learning CS 394D in Fall 2025 with GPA 4/4
